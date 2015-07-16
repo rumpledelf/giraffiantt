@@ -1,0 +1,12 @@
+# Site settings
+title: Giraffian - Testing Times
+slogan: Life and times living with a toddler
+paginate: 1
+description: >
+  This was a webcomic on Giraffian, but I stopped doing anything with it some years ago. 
+  It is here for archive purposes only.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tt.giraffian.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown

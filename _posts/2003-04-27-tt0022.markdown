@@ -1,0 +1,7 @@
+---
+layout: post
+title: Testing Times 22
+---
+<img src="/images/tt0022.png">
+
+Apparently the toilet has an effective washing action that is particularly good at removing lint from stuffed toys.

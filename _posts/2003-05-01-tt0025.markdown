@@ -1,0 +1,7 @@
+---
+layout: post
+title: Testing Times 25
+---
+<img src="/images/tt0025.png">
+
+Long distance relationships ...

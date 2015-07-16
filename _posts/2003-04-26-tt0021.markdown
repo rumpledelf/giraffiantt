@@ -1,0 +1,7 @@
+---
+layout: post
+title: Testing Times 21
+---
+<img src="/images/tt0021.png">
+
+Simon's beer cupboard. Apparently this is the best place in Simon's house to hide, but the door is a little bit hard to shut.

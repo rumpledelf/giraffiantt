@@ -1,0 +1,7 @@
+---
+layout: post
+title: Testing Times 5
+---
+<img src="/images/tt0005.png">
+
+The dirtier you are, and the dirtier things around you are, the happier you must be.  

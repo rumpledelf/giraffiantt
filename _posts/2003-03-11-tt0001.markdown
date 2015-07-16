@@ -1,0 +1,7 @@
+---
+layout: post
+title: Testing Times 1
+---
+<img src="/images/tt0001.png">
+
+It's a tough business, leaving mum for that strange woman, and all those strange toys.

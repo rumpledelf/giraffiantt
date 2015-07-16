@@ -1,0 +1,7 @@
+---
+layout: post
+title: Testing Times 101
+---
+<img src="/images/tt0101.png">
+
+The cat is probably not the best person in the house to ask for a drink. Cats are pretty clever, but not <em>that</em> clever. 

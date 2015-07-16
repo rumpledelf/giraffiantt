@@ -1,0 +1,9 @@
+---
+layout: post
+title: Testing Times 125
+---
+<img src="/images/tt0125.png">
+
+Well, having a hard drive fail definately makes it to the list of things I don't want to have happen again in a hury.
+
+Didn't lose any data, but with the way our network is set up the only spare computer to plug it into ran Windows Vista 

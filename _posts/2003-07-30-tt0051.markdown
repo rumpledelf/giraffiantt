@@ -1,0 +1,7 @@
+---
+layout: post
+title: Testing Times 51
+---
+<img src="/images/tt0051.png">
+
+ Cappuccino. The price is inversely proportional to the size as well.

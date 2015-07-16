@@ -1,0 +1,10 @@
+---
+layout: post
+title: Testing Times 156
+---
+<img src="/images/tt0156.png">
+
+When you get a lot bigger in a very short space of time, your brain still thinks you're smaller. As a result, the collision detection module in your brain gets totally out of whack with the reality of your actual size. You then end up bumping into furniture and trying to squeeze through gaps you really don't fit into. And they wonder why pregnant women are notoriously clumsy?
+
+
+For the non-geek, here's a brief explanation of <a href="http://en.wikipedia.org/wiki/Collision_detection">collision detection</a> and <a href="http://en.wikipedia.org/wiki/Bounding_box">minimum bounding boxes</a>. Actually, you'd need to be a geek to understand both of those links, but I'm putting them there anyway :-)
